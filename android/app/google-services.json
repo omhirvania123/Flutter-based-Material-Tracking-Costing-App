@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429164073739",
+    "project_id": "external-d723a",
+    "storage_bucket": "external-d723a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429164073739:android:62fbc76fe6a13ee9a9880e",
+        "android_client_info": {
+          "package_name": "com.example.external_mad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCib8Ak39HnmLiVsm6xQMrWxWHNpbd3Dpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
